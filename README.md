@@ -14,6 +14,7 @@ logos/    사조 로고 변형
 ## CDN URL
 
 ```
+https://cdn.jsdelivr.net/gh/SAZO-KR/sazo-email-assets@main/logos/sazo_p_logo.png
 https://cdn.jsdelivr.net/gh/SAZO-KR/sazo-email-assets@main/social/social-x.png
 https://cdn.jsdelivr.net/gh/SAZO-KR/sazo-email-assets@main/social/social-instagram.png
 https://cdn.jsdelivr.net/gh/SAZO-KR/sazo-email-assets@main/social/social-kakao.png
