@@ -1,14 +1,14 @@
 # sazo-email-assets
 
-사조 이메일 템플릿용 정적 자산 저장소. 템플릿 본체는 [SAZO-KR/sazo-email-templates](https://github.com/SAZO-KR/sazo-email-templates)(private)에 있음.
+사조 브랜드 정적 이미지 자산 (로고 · SNS 아이콘) 저장소.
 
-이 레포는 **public** 이며, [jsDelivr GitHub CDN](https://www.jsdelivr.com/github)을 통한 영구 캐시 배포 용도로만 사용된다.
+[jsDelivr GitHub CDN](https://www.jsdelivr.com/github)을 통해 영구 캐시 배포되는 용도로 사용됩니다.
 
 ## 구조
 
 ```
-social/   SNS 아이콘 (Instagram, Kakao, X)
-logos/    사조 로고 변형
+logos/    로고
+social/   SNS 아이콘 (X · Instagram · KakaoTalk)
 ```
 
 ## CDN URL
@@ -20,9 +20,7 @@ https://cdn.jsdelivr.net/gh/SAZO-KR/sazo-email-assets@main/social/social-instagr
 https://cdn.jsdelivr.net/gh/SAZO-KR/sazo-email-assets@main/social/social-kakao.png
 ```
 
-URL은 영구 캐시. 한 번 발행한 메일은 동일 URL을 영원히 참조 가능.
-
-특정 커밋 고정이 필요하면 `@main` 자리에 커밋 SHA를 넣는다:
+`@main` 자리에 커밋 SHA를 넣으면 특정 시점의 자산을 영구 고정할 수 있습니다:
 
 ```
 https://cdn.jsdelivr.net/gh/SAZO-KR/sazo-email-assets@<commit-sha>/social/social-x.png
@@ -30,6 +28,4 @@ https://cdn.jsdelivr.net/gh/SAZO-KR/sazo-email-assets@<commit-sha>/social/social
 
 ## 라이선스
 
-- SNS 아이콘 (`social/`): [Simple Icons](https://simpleicons.org), CC0 1.0 (Public Domain)
-  - 어트리뷰션 의무 없음
-  - 색상은 `#999999`(푸터 텍스트와 동일) 단색으로 래스터라이즈한 96x96 PNG
+- SNS 아이콘 (`social/`): [Simple Icons](https://simpleicons.org), CC0 1.0 (Public Domain) — 어트리뷰션 의무 없음. 단색 `#999999` 96×96 PNG로 래스터라이즈.
