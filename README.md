@@ -29,5 +29,6 @@ https://cdn.jsdelivr.net/gh/SAZO-KR/sazo-email-assets@<commit-sha>/social/social
 
 ## 라이선스
 
-- SNS 아이콘 (`social/`): Font Awesome Free, CC BY 4.0
-  - 사이트 약관 페이지에 어트리뷰션 한 줄 명시 필요: `Icons by Font Awesome (https://fontawesome.com)`
+- SNS 아이콘 (`social/`): [Simple Icons](https://simpleicons.org), CC0 1.0 (Public Domain)
+  - 어트리뷰션 의무 없음
+  - 색상은 `#475569` 단색으로 래스터라이즈한 96x96 PNG
