@@ -32,4 +32,4 @@ https://cdn.jsdelivr.net/gh/SAZO-KR/sazo-email-assets@<commit-sha>/social/social
 
 - SNS 아이콘 (`social/`): [Simple Icons](https://simpleicons.org), CC0 1.0 (Public Domain)
   - 어트리뷰션 의무 없음
-  - 색상은 `#475569` 단색으로 래스터라이즈한 96x96 PNG
+  - 색상은 `#999999`(푸터 텍스트와 동일) 단색으로 래스터라이즈한 96x96 PNG
