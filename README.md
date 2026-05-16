@@ -28,4 +28,4 @@ https://cdn.jsdelivr.net/gh/SAZO-KR/sazo-email-assets@<commit-sha>/social/social
 
 ## 라이선스
 
-- SNS 아이콘 (`social/`): [Simple Icons](https://simpleicons.org), CC0 1.0 (Public Domain) — 어트리뷰션 의무 없음. 단색 `#999999` 96×96 PNG로 래스터라이즈.
+- SNS 아이콘 (`social/`): [Simple Icons](https://simpleicons.org), CC0 1.0 (Public Domain) — 어트리뷰션 의무 없음. 단색 `#6E6E6E` 96×96 PNG로 래스터라이즈.
